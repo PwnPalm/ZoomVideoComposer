@@ -282,7 +282,7 @@ def zoom_video_composer(
     ease_duration=DEFAULT_EASE_DURATION,
     direction="out",
     fps=30,
-    reverse_images=False,
+    reverse_images=True,
     width=1,
     height=1,
     resampling=DEFAULT_RESAMPLING_KEY,
